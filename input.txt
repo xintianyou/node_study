@@ -1,0 +1,4 @@
+﻿Today is Monday !
+
+我是通过fs.writeFile写入文件的内容
+我是通过fs.writeFile写入文件的内容
